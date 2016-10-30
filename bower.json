@@ -1,0 +1,28 @@
+{
+  "name": "courseraserverandroid",
+  "description": "\"Simple server for Coursera Android Course\"",
+  "main": "index.js",
+  "authors": [
+    "paulo101977 paulo10.1977@yahoo.com.br"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "\"Coursera",
+    "RESTful",
+    "Android",
+    "REST",
+    "API",
+    "Server\""
+  ],
+  "homepage": "https://github.com/paulo101977/CourseraServerAndroid",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
