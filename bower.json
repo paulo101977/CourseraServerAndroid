@@ -1,7 +1,7 @@
 {
   "name": "courseraserverandroid",
   "description": "\"Simple server for Coursera Android Course\"",
-  "main": "index.js",
+  "main": "server.js",
   "authors": [
     "paulo101977 paulo10.1977@yahoo.com.br"
   ],
